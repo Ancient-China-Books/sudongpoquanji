@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:c15117f7-8d61-5518-8022-380af14d8d55"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:generator" content="calibre (6.8.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>蘇東坡全集</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>東坡先生墓誌銘</text>
+      </navLabel>
+      <content src="Text/sushi.htm"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>前集</text>
+      </navLabel>
+      <content src="Text/1001.htm"/>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>卷一・詩四十七首</text>
+        </navLabel>
+        <content src="Text/1001.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>卷二・詩八十二首</text>
+        </navLabel>
+        <content src="Text/1002.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>卷三・詩七十六首</text>
+        </navLabel>
+        <content src="Text/1003.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>卷四・詩八十八首</text>
+        </navLabel>
+        <content src="Text/1004.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>卷五・詩一百三首</text>
+        </navLabel>
+        <content src="Text/1005.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>卷六・詩九十九首</text>
+        </navLabel>
+        <content src="Text/1006.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>卷七・詩八十三首</text>
+        </navLabel>
+        <content src="Text/1007.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>卷八・詩七十二首</text>
+        </navLabel>
+        <content src="Text/1008.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>卷九・詩六十八首</text>
+        </navLabel>
+        <content src="Text/1009.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>卷十・詩七十七首</text>
+        </navLabel>
+        <content src="Text/1010.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>卷十一・詩七十二首</text>
+        </navLabel>
+        <content src="Text/1011.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>卷十二・詩八十九首</text>
+        </navLabel>
+        <content src="Text/1012.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>卷十三・詩八十一首</text>
+        </navLabel>
+        <content src="Text/1013.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>卷十四・詩七十九首</text>
+        </navLabel>
+        <content src="Text/1014.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>卷十五・詩七十二首</text>
+        </navLabel>
+        <content src="Text/1015.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>卷十六・詩八十八首</text>
+        </navLabel>
+        <content src="Text/1016.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>卷十七・詩八十八首</text>
+        </navLabel>
+        <content src="Text/1017.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_20" playOrder="20">
+        <navLabel>
+          <text>卷十八・詩一百一十七首</text>
+        </navLabel>
+        <content src="Text/1018.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>卷十九・詩詞賦</text>
+        </navLabel>
+        <content src="Text/1019.htm#toc_4"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>卷二十・銘頌贊</text>
+        </navLabel>
+        <content src="Text/1020.htm#toc_4"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>卷二十一・論八首</text>
+        </navLabel>
+        <content src="Text/1021.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>卷二十二・策問十八首</text>
+        </navLabel>
+        <content src="Text/1022.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>卷二十三・雜文二十二首</text>
+        </navLabel>
+        <content src="Text/1023.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>卷二十四・敘/字說</text>
+        </navLabel>
+        <content src="Text/1024.htm#toc_3"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>卷二十五・表狀三十三首</text>
+        </navLabel>
+        <content src="Text/1025.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>卷二十六・表/啟</text>
+        </navLabel>
+        <content src="Text/1026.htm#toc_3"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>卷二十七・啟三十首</text>
+        </navLabel>
+        <content src="Text/1027.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="30">
+        <navLabel>
+          <text>卷二十八・書十一首</text>
+        </navLabel>
+        <content src="Text/1028.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>卷二十九・書十首</text>
+        </navLabel>
+        <content src="Text/1029.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_32" playOrder="32">
+        <navLabel>
+          <text>卷三十・書九首</text>
+        </navLabel>
+        <content src="Text/1030.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_33" playOrder="33">
+        <navLabel>
+          <text>卷三十一・記十三首</text>
+        </navLabel>
+        <content src="Text/1031.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_34" playOrder="34">
+        <navLabel>
+          <text>卷三十二・記十四首</text>
+        </navLabel>
+        <content src="Text/1032.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_35" playOrder="35">
+        <navLabel>
+          <text>卷三十三・記/碑/傳</text>
+        </navLabel>
+        <content src="Text/1033.htm#toc_4"/>
+      </navPoint>
+      <navPoint id="num_36" playOrder="36">
+        <navLabel>
+          <text>卷三十四・青詞/祝文</text>
+        </navLabel>
+        <content src="Text/1034.htm#toc_3"/>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>卷三十五・祭文二十五首</text>
+        </navLabel>
+        <content src="Text/1035.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_38" playOrder="38">
+        <navLabel>
+          <text>卷三十六・司馬溫公行狀</text>
+        </navLabel>
+        <content src="Text/1036.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_39" playOrder="39">
+        <navLabel>
+          <text>卷三十七・富鄭公神道碑</text>
+        </navLabel>
+        <content src="Text/1037.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_40" playOrder="40">
+        <navLabel>
+          <text>卷三十八・趙清獻公神道碑</text>
+        </navLabel>
+        <content src="Text/1038.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_41" playOrder="41">
+        <navLabel>
+          <text>卷三十九・神道碑/墓誌</text>
+        </navLabel>
+        <content src="Text/1039.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_42" playOrder="42">
+        <navLabel>
+          <text>卷四十・釋教二十三首</text>
+        </navLabel>
+        <content src="Text/1040.htm#toc_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_43" playOrder="43">
+      <navLabel>
+        <text>後集</text>
+      </navLabel>
+      <content src="Text/2001.htm"/>
+      <navPoint id="num_44" playOrder="44">
+        <navLabel>
+          <text>卷一・詩六十四首</text>
+        </navLabel>
+        <content src="Text/2001.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_45" playOrder="45">
+        <navLabel>
+          <text>卷二・詩五十六首</text>
+        </navLabel>
+        <content src="Text/2002.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_46" playOrder="46">
+        <navLabel>
+          <text>卷三・詩六十六首</text>
+        </navLabel>
+        <content src="Text/2003.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_47" playOrder="47">
+        <navLabel>
+          <text>卷四・詩七十首</text>
+        </navLabel>
+        <content src="Text/2004.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_48" playOrder="48">
+        <navLabel>
+          <text>卷五・詩六十七首</text>
+        </navLabel>
+        <content src="Text/2005.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_49" playOrder="49">
+        <navLabel>
+          <text>卷六・詩六十七首</text>
+        </navLabel>
+        <content src="Text/2006.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_50" playOrder="50">
+        <navLabel>
+          <text>卷七・詩八十九首</text>
+        </navLabel>
+        <content src="Text/2007.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_51" playOrder="51">
+        <navLabel>
+          <text>卷八・詩/賦/琴操/辭/頌/銘</text>
+        </navLabel>
+        <content src="Text/2008.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_52" playOrder="52">
+        <navLabel>
+          <text>卷九・硯銘/贊/雜文</text>
+        </navLabel>
+        <content src="Text/2009.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_53" playOrder="53">
+        <navLabel>
+          <text>卷十・論/策</text>
+        </navLabel>
+        <content src="Text/2010.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_54" playOrder="54">
+        <navLabel>
+          <text>卷十一・志林十三首</text>
+        </navLabel>
+        <content src="Text/2011.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_55" playOrder="55">
+        <navLabel>
+          <text>卷十二・表狀剳子三十五首</text>
+        </navLabel>
+        <content src="Text/2012.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_56" playOrder="56">
+        <navLabel>
+          <text>卷十三・表狀剳子/疏文</text>
+        </navLabel>
+        <content src="Text/2013.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_57" playOrder="57">
+        <navLabel>
+          <text>卷十四・啟/書</text>
+        </navLabel>
+        <content src="Text/2014.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_58" playOrder="58">
+        <navLabel>
+          <text>卷十五・記/碑</text>
+        </navLabel>
+        <content src="Text/2015.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_59" playOrder="59">
+        <navLabel>
+          <text>卷十六・傳/祝文/祭文</text>
+        </navLabel>
+        <content src="Text/2016.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_60" playOrder="60">
+        <navLabel>
+          <text>卷十七・張文定公墓誌銘</text>
+        </navLabel>
+        <content src="Text/2017.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_61" playOrder="61">
+        <navLabel>
+          <text>卷十八・墓誌銘/神道碑</text>
+        </navLabel>
+        <content src="Text/2018.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_62" playOrder="62">
+        <navLabel>
+          <text>卷十九・釋教五十首</text>
+        </navLabel>
+        <content src="Text/2019.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_63" playOrder="63">
+        <navLabel>
+          <text>卷二十・釋教二十五首</text>
+        </navLabel>
+        <content src="Text/2020.htm#toc_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_64" playOrder="64">
+      <navLabel>
+        <text>續集</text>
+      </navLabel>
+      <content src="Text/3001.htm"/>
+      <navPoint id="num_65" playOrder="65">
+        <navLabel>
+          <text>卷一・古詩一百六十五首</text>
+        </navLabel>
+        <content src="Text/3001.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_66" playOrder="66">
+        <navLabel>
+          <text>卷二・律詩/絕句</text>
+        </navLabel>
+        <content src="Text/3002.htm#toc_3"/>
+      </navPoint>
+      <navPoint id="num_67" playOrder="67">
+        <navLabel>
+          <text>卷三・和陶詩/歌詞/古賦</text>
+        </navLabel>
+        <content src="Text/3003.htm#toc_3"/>
+      </navPoint>
+      <navPoint id="num_68" playOrder="68">
+        <navLabel>
+          <text>卷四・書簡ㄧ百九十首</text>
+        </navLabel>
+        <content src="Text/3004.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_69" playOrder="69">
+        <navLabel>
+          <text>卷五・書簡一百九十八首</text>
+        </navLabel>
+        <content src="Text/3005.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_70" playOrder="70">
+        <navLabel>
+          <text>卷六・書簡三百二十七首</text>
+        </navLabel>
+        <content src="Text/3006.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_71" playOrder="71">
+        <navLabel>
+          <text>卷七・書簡一百八十首</text>
+        </navLabel>
+        <content src="Text/3007.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_72" playOrder="72">
+        <navLabel>
+          <text>卷八・序/論</text>
+        </navLabel>
+        <content src="Text/3008.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_73" playOrder="73">
+        <navLabel>
+          <text>卷九・策問/南省說書/奏議/治道/表狀/擬作/制誥/樂語</text>
+        </navLabel>
+        <content src="Text/3009.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_74" playOrder="74">
+        <navLabel>
+          <text>卷十・頌/贊/銘/琴銘/啟</text>
+        </navLabel>
+        <content src="Text/3010.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_75" playOrder="75">
+        <navLabel>
+          <text>卷十一・書三十七首</text>
+        </navLabel>
+        <content src="Text/3011.htm#toc_2"/>
+      </navPoint>
+      <navPoint id="num_76" playOrder="76">
+        <navLabel>
+          <text>卷十二・記/傳/碑/祝文/墓誌銘/偈/箴</text>
+        </navLabel>
+        <content src="Text/3012.htm#toc_8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_77" playOrder="77">
+      <navLabel>
+        <text>奏議集</text>
+      </navLabel>
+      <content src="Text/4001.htm"/>
+      <navPoint id="num_78" playOrder="78">
+        <navLabel>
+          <text>卷一</text>
+        </navLabel>
+        <content src="Text/4001.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_79" playOrder="79">
+        <navLabel>
+          <text>卷二</text>
+        </navLabel>
+        <content src="Text/4002.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_80" playOrder="80">
+        <navLabel>
+          <text>卷三</text>
+        </navLabel>
+        <content src="Text/4003.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_81" playOrder="81">
+        <navLabel>
+          <text>卷四</text>
+        </navLabel>
+        <content src="Text/4004.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_82" playOrder="82">
+        <navLabel>
+          <text>卷五</text>
+        </navLabel>
+        <content src="Text/4005.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_83" playOrder="83">
+        <navLabel>
+          <text>卷六</text>
+        </navLabel>
+        <content src="Text/4006.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_84" playOrder="84">
+        <navLabel>
+          <text>卷七</text>
+        </navLabel>
+        <content src="Text/4007.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_85" playOrder="85">
+        <navLabel>
+          <text>卷八</text>
+        </navLabel>
+        <content src="Text/4008.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_86" playOrder="86">
+        <navLabel>
+          <text>卷九</text>
+        </navLabel>
+        <content src="Text/4009.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_87" playOrder="87">
+        <navLabel>
+          <text>卷十</text>
+        </navLabel>
+        <content src="Text/4010.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_88" playOrder="88">
+        <navLabel>
+          <text>卷十一</text>
+        </navLabel>
+        <content src="Text/4011.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_89" playOrder="89">
+        <navLabel>
+          <text>卷十二</text>
+        </navLabel>
+        <content src="Text/4012.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_90" playOrder="90">
+        <navLabel>
+          <text>卷十三</text>
+        </navLabel>
+        <content src="Text/4013.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_91" playOrder="91">
+        <navLabel>
+          <text>卷十四</text>
+        </navLabel>
+        <content src="Text/4014.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_92" playOrder="92">
+        <navLabel>
+          <text>卷十五</text>
+        </navLabel>
+        <content src="Text/4015.htm#toc_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_93" playOrder="93">
+      <navLabel>
+        <text>外制集</text>
+      </navLabel>
+      <content src="Text/5001.htm"/>
+      <navPoint id="num_94" playOrder="94">
+        <navLabel>
+          <text>卷上</text>
+        </navLabel>
+        <content src="Text/5001.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_95" playOrder="95">
+        <navLabel>
+          <text>卷中</text>
+        </navLabel>
+        <content src="Text/5002.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_96" playOrder="96">
+        <navLabel>
+          <text>卷下</text>
+        </navLabel>
+        <content src="Text/5003.htm#toc_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_97" playOrder="97">
+      <navLabel>
+        <text>內制集</text>
+      </navLabel>
+      <content src="Text/6001.htm"/>
+      <navPoint id="num_98" playOrder="98">
+        <navLabel>
+          <text>卷一</text>
+        </navLabel>
+        <content src="Text/6001.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_99" playOrder="99">
+        <navLabel>
+          <text>卷二</text>
+        </navLabel>
+        <content src="Text/6002.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_100" playOrder="100">
+        <navLabel>
+          <text>卷三</text>
+        </navLabel>
+        <content src="Text/6003.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_101" playOrder="101">
+        <navLabel>
+          <text>卷四</text>
+        </navLabel>
+        <content src="Text/6004.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_102" playOrder="102">
+        <navLabel>
+          <text>卷五</text>
+        </navLabel>
+        <content src="Text/6005.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_103" playOrder="103">
+        <navLabel>
+          <text>卷六</text>
+        </navLabel>
+        <content src="Text/6006.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_104" playOrder="104">
+        <navLabel>
+          <text>卷七</text>
+        </navLabel>
+        <content src="Text/6007.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_105" playOrder="105">
+        <navLabel>
+          <text>卷八</text>
+        </navLabel>
+        <content src="Text/6008.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_106" playOrder="106">
+        <navLabel>
+          <text>卷九</text>
+        </navLabel>
+        <content src="Text/6009.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_107" playOrder="107">
+        <navLabel>
+          <text>卷十</text>
+        </navLabel>
+        <content src="Text/6010.htm#toc_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_108" playOrder="108">
+      <navLabel>
+        <text>應詔集</text>
+      </navLabel>
+      <content src="Text/7001.htm"/>
+      <navPoint id="num_109" playOrder="109">
+        <navLabel>
+          <text>策略第一</text>
+        </navLabel>
+        <content src="Text/7001.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_110" playOrder="110">
+        <navLabel>
+          <text>策略第二</text>
+        </navLabel>
+        <content src="Text/7002.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_111" playOrder="111">
+        <navLabel>
+          <text>策略第三</text>
+        </navLabel>
+        <content src="Text/7003.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_112" playOrder="112">
+        <navLabel>
+          <text>策略第四</text>
+        </navLabel>
+        <content src="Text/7004.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_113" playOrder="113">
+        <navLabel>
+          <text>策略第五</text>
+        </navLabel>
+        <content src="Text/7005.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_114" playOrder="114">
+        <navLabel>
+          <text>策別第六</text>
+        </navLabel>
+        <content src="Text/7006.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_115" playOrder="115">
+        <navLabel>
+          <text>策別第七</text>
+        </navLabel>
+        <content src="Text/7007.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_116" playOrder="116">
+        <navLabel>
+          <text>策別第八</text>
+        </navLabel>
+        <content src="Text/7008.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_117" playOrder="117">
+        <navLabel>
+          <text>策別第九</text>
+        </navLabel>
+        <content src="Text/7009.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_118" playOrder="118">
+        <navLabel>
+          <text>策別第十</text>
+        </navLabel>
+        <content src="Text/7010.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_119" playOrder="119">
+        <navLabel>
+          <text>策別十一</text>
+        </navLabel>
+        <content src="Text/7011.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_120" playOrder="120">
+        <navLabel>
+          <text>策別十二</text>
+        </navLabel>
+        <content src="Text/7012.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_121" playOrder="121">
+        <navLabel>
+          <text>策別十三</text>
+        </navLabel>
+        <content src="Text/7013.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_122" playOrder="122">
+        <navLabel>
+          <text>策別十四</text>
+        </navLabel>
+        <content src="Text/7014.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_123" playOrder="123">
+        <navLabel>
+          <text>策別十五</text>
+        </navLabel>
+        <content src="Text/7015.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_124" playOrder="124">
+        <navLabel>
+          <text>策別十六</text>
+        </navLabel>
+        <content src="Text/7016.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_125" playOrder="125">
+        <navLabel>
+          <text>策別十七</text>
+        </navLabel>
+        <content src="Text/7017.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_126" playOrder="126">
+        <navLabel>
+          <text>策別十八</text>
+        </navLabel>
+        <content src="Text/7018.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_127" playOrder="127">
+        <navLabel>
+          <text>策別十九</text>
+        </navLabel>
+        <content src="Text/7019.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_128" playOrder="128">
+        <navLabel>
+          <text>策別二十</text>
+        </navLabel>
+        <content src="Text/7020.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_129" playOrder="129">
+        <navLabel>
+          <text>策別二十一</text>
+        </navLabel>
+        <content src="Text/7021.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_130" playOrder="130">
+        <navLabel>
+          <text>策斷二十三</text>
+        </navLabel>
+        <content src="Text/7023.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_131" playOrder="131">
+        <navLabel>
+          <text>策別二十二</text>
+        </navLabel>
+        <content src="Text/7022.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_132" playOrder="132">
+        <navLabel>
+          <text>策斷二十四</text>
+        </navLabel>
+        <content src="Text/7024.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_133" playOrder="133">
+        <navLabel>
+          <text>策斷二十五</text>
+        </navLabel>
+        <content src="Text/7025.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_134" playOrder="134">
+        <navLabel>
+          <text>中庸論上</text>
+        </navLabel>
+        <content src="Text/7026.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_135" playOrder="135">
+        <navLabel>
+          <text>中庸論中</text>
+        </navLabel>
+        <content src="Text/7027.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_136" playOrder="136">
+        <navLabel>
+          <text>中庸論下</text>
+        </navLabel>
+        <content src="Text/7028.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_137" playOrder="137">
+        <navLabel>
+          <text>大臣論上</text>
+        </navLabel>
+        <content src="Text/7029.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_138" playOrder="138">
+        <navLabel>
+          <text>大臣論下</text>
+        </navLabel>
+        <content src="Text/7030.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_139" playOrder="139">
+        <navLabel>
+          <text>秦始皇帝論</text>
+        </navLabel>
+        <content src="Text/7031.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_140" playOrder="140">
+        <navLabel>
+          <text>漢高帝論</text>
+        </navLabel>
+        <content src="Text/7032.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_141" playOrder="141">
+        <navLabel>
+          <text>魏武帝論</text>
+        </navLabel>
+        <content src="Text/7033.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_142" playOrder="142">
+        <navLabel>
+          <text>伊尹論</text>
+        </navLabel>
+        <content src="Text/7034.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_143" playOrder="143">
+        <navLabel>
+          <text>周公論</text>
+        </navLabel>
+        <content src="Text/7035.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_144" playOrder="144">
+        <navLabel>
+          <text>管仲論</text>
+        </navLabel>
+        <content src="Text/7036.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_145" playOrder="145">
+        <navLabel>
+          <text>孫武論上</text>
+        </navLabel>
+        <content src="Text/7037.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_146" playOrder="146">
+        <navLabel>
+          <text>孫武論下</text>
+        </navLabel>
+        <content src="Text/7038.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_147" playOrder="147">
+        <navLabel>
+          <text>子思論</text>
+        </navLabel>
+        <content src="Text/7039.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_148" playOrder="148">
+        <navLabel>
+          <text>孟軻論</text>
+        </navLabel>
+        <content src="Text/7040.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_149" playOrder="149">
+        <navLabel>
+          <text>樂毅論</text>
+        </navLabel>
+        <content src="Text/7041.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_150" playOrder="150">
+        <navLabel>
+          <text>荀卿論</text>
+        </navLabel>
+        <content src="Text/7042.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_151" playOrder="151">
+        <navLabel>
+          <text>韓非論</text>
+        </navLabel>
+        <content src="Text/7043.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_152" playOrder="152">
+        <navLabel>
+          <text>留侯論</text>
+        </navLabel>
+        <content src="Text/7044.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_153" playOrder="153">
+        <navLabel>
+          <text>賈誼論</text>
+        </navLabel>
+        <content src="Text/7045.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_154" playOrder="154">
+        <navLabel>
+          <text>鼂錯論</text>
+        </navLabel>
+        <content src="Text/7046.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_155" playOrder="155">
+        <navLabel>
+          <text>霍光論</text>
+        </navLabel>
+        <content src="Text/7047.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_156" playOrder="156">
+        <navLabel>
+          <text>揚雄論</text>
+        </navLabel>
+        <content src="Text/7048.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_157" playOrder="157">
+        <navLabel>
+          <text>諸葛亮論</text>
+        </navLabel>
+        <content src="Text/7049.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_158" playOrder="158">
+        <navLabel>
+          <text>韓愈論</text>
+        </navLabel>
+        <content src="Text/7050.htm#toc_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_159" playOrder="159">
+      <navLabel>
+        <text>樂府</text>
+      </navLabel>
+      <content src="Text/8001.htm"/>
+      <navPoint id="num_160" playOrder="160">
+        <navLabel>
+          <text>卷一</text>
+        </navLabel>
+        <content src="Text/8001.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_161" playOrder="161">
+        <navLabel>
+          <text>卷二</text>
+        </navLabel>
+        <content src="Text/8002.htm#toc_1"/>
+      </navPoint>
+      <navPoint id="num_162" playOrder="162">
+        <navLabel>
+          <text>卷三</text>
+        </navLabel>
+        <content src="Text/8003.htm#toc_1"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
