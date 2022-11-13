@@ -158,9 +158,6 @@ input:invalid, textarea:invalid {
   font-size: 105%;
   margin: 0 1%;
 }
-.story p {
-  padding: 10px 4% 0 4%;
-}
 /*************feature{ **********/
 .feature {
   margin: 0;
